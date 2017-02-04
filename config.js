@@ -11,7 +11,7 @@ define( function ( require ) {
 		app_title : 'Latin Cuisine App',
 		app_platform : 'android',
 		gmt_offset : 0,
-		debug_mode : 'on',
+		debug_mode : 'off',
 		auth_key : 'nWg4rcseLL6a6AFps6dkRrMXs4SnxT7FSh1VWAayUrNKdvDNgxYEo6oq5kgs2E7G',
 		options : {"refresh_interval":0},
 		theme_settings : [],

@@ -2,7 +2,7 @@
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         id          = "ca.latincuisine.app"
-        versionCode = ""
+        versionCode = "1"
         version     = "1.0.0" >
 
 	<name>Latin Cuisine Android App</name>
@@ -43,13 +43,13 @@
 	<!-- Icons and Splashscreens declaration -->
 
 	<icon src="icon.png" />
-	    <icon src="icons/icon-wp-appkit-ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
-	    <icon src="icons/icon-wp-appkit-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
-	    <icon src="icons/icon-wp-appkit-hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
-	    <icon src="icons/icon-wp-appkit-xhdpi.png" gap:platform="android" gap:qualifier="xhdpi" />
-	    <gap:splash src="splash.png" />
-	    <gap:splash src="splashscreens/splashscreen-wp-appkit-ldpi.png"  gap:platform="android" gap:qualifier="port-ldpi" />
-	    <gap:splash src="splashscreens/splashscreen-wp-appkit-mdpi.png"  gap:platform="android" gap:qualifier="port-mdpi" />
-	    <gap:splash src="splashscreens/splashscreen-wp-appkit-hdpi.png"  gap:platform="android" gap:qualifier="port-hdpi" />
-	    <gap:splash src="splashscreens/splashscreen-wp-appkit-xhdpi.png" gap:platform="android" gap:qualifier="port-xhdpi" />
+	<icon src="icons/icon-wp-appkit-ldpi.png" gap:platform="android" gap:qualifier="ldpi" />
+	<icon src="icons/icon-wp-appkit-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
+	<icon src="icons/icon-wp-appkit-hdpi.png" gap:platform="android" gap:qualifier="hdpi" />
+	<icon src="icons/icon-wp-appkit-xhdpi.png" gap:platform="android" gap:qualifier="xhdpi" />
+	<gap:splash src="splash.png" />
+	<gap:splash src="splashscreens/splashscreen-wp-appkit-ldpi.png"  gap:platform="android" gap:qualifier="port-ldpi" />
+	<gap:splash src="splashscreens/splashscreen-wp-appkit-mdpi.png"  gap:platform="android" gap:qualifier="port-mdpi" />
+	<gap:splash src="splashscreens/splashscreen-wp-appkit-hdpi.png"  gap:platform="android" gap:qualifier="port-hdpi" />
+	<gap:splash src="splashscreens/splashscreen-wp-appkit-xhdpi.png" gap:platform="android" gap:qualifier="port-xhdpi" />
 </widget>
